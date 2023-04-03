@@ -24,9 +24,9 @@ To run this application locally, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/muqeetiqbal2/meetup-planner-using-django.git`
 2. Navigate into the project directory: `cd meetup-planner-using-django`
-3. Create a virtual environment: `python3 -m venv env`
-4. Activate the virtual environment: `source env/bin/activate`
-5. Install the dependencies: `pip install -r requirements.txt`
+3. Navigate into the project directory: `cd meetup_app`
+4. Create a virtual environment: `python3 -m venv env`
+5. Activate the virtual environment: `source env/bin/activate`
 6. Run the development server: `python manage.py runserver`
 7. Open your web browser and navigate to http://localhost:8000/ to view the application.
 
