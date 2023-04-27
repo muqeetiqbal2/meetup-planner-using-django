@@ -4,6 +4,11 @@ Welcome to Meetup-Planner-Using-Django! This is a web application that enables u
 
 This application is built using Django, a powerful and popular Python web framework that provides a robust set of tools for building web applications. The Meetup-Planner-Using-Django application is designed to be easy to use and intuitive, with a clean and modern interface that allows users to quickly create and manage their meetups.
 
+<p align="center">
+  <img src="https://img.shields.io/badge/version-1.0.0-blue.svg" alt="Version 1.0.0">
+  
+</p>
+
 ## Features
 
 The key features of this application include:
@@ -43,4 +48,7 @@ If you're interested in contributing to Meetup-Planner-Using-Django, please foll
 
 ## License
 
-Meetup-Planner-Using-Django is released under the MIT License. See [LICENSE](LICENSE) for details.
+Meetup-Planner-Using-Django is released under the <a href="https://github.com/your-username/Django-To-Do-list-with-user-authentication/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/muqeetiqbal2/Django-To-Do-list-with-user-authentication" alt="License">
+  </a>.
+
