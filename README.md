@@ -1,11 +1,11 @@
-# Meetup-Planner-Using-Django
+# 📅 Meetup-Planner-Using-Django
 
 Welcome to Meetup-Planner-Using-Django! This is a web application that enables users to organize and participate in meetups in specific locations. With Meetup-Planner-Using-Django, you can easily create meetups, set the location, and allow participants to register via email.
 
 This application is built using Django, a powerful and popular Python web framework that provides a robust set of tools for building web applications. The Meetup-Planner-Using-Django application is designed to be easy to use and intuitive, with a clean and modern interface that allows users to quickly create and manage their meetups.
 
 
-## Features
+## 💻 Features
 
 The key features of this application include:
 
@@ -19,7 +19,7 @@ The key features of this application include:
 ![Version 1.0.0](https://img.shields.io/badge/version-1.0.0-blue.svg)
 
 
-## Installation
+## 🚀 Installation
 
 To run this application locally, follow these steps:
 
@@ -31,7 +31,7 @@ To run this application locally, follow these steps:
 6. Run the development server: `python manage.py runserver`
 7. Open your web browser and navigate to http://localhost:8000/ to view the application.
 
-## Contributing
+## 🤝 Contributing
 
 If you're interested in contributing to Meetup-Planner-Using-Django, please follow these steps:
 
@@ -42,7 +42,7 @@ If you're interested in contributing to Meetup-Planner-Using-Django, please foll
 5. Push your changes to GitHub: `git push origin my-new-feature`
 6. Submit a pull request.
 
-## License
+## 📝 License
 
 Meetup-Planner-Using-Django is released under the <a href="https://github.com/muqeetiqbal2e/meetup-planner-using-django/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/muqeetiqbal2/meetup-planner-using-django" alt="License">
