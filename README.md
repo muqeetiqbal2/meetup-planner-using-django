@@ -1,5 +1,7 @@
 # 📅 Meetup-Planner-Using-Django
 
+<p align="center"><img src="https://img.icons8.com/color/96/000000/django.png"/></p>
+
 Welcome to Meetup-Planner-Using-Django! This is a web application that enables users to organize and participate in meetups in specific locations. With Meetup-Planner-Using-Django, you can easily create meetups, set the location, and allow participants to register via email.
 
 This application is built using Django, a powerful and popular Python web framework that provides a robust set of tools for building web applications. The Meetup-Planner-Using-Django application is designed to be easy to use and intuitive, with a clean and modern interface that allows users to quickly create and manage their meetups.
